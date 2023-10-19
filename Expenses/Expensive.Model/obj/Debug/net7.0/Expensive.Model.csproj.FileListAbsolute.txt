@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\Expenses\Expensive.Model\bin\Debug\net7.0\Expensive.Model.deps.json
+C:\Users\dell\source\repos\Expenses\Expensive.Model\bin\Debug\net7.0\Expensive.Model.dll
+C:\Users\dell\source\repos\Expenses\Expensive.Model\bin\Debug\net7.0\Expensive.Model.pdb
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.AssemblyInfo.cs
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.dll
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\refint\Expensive.Model.dll
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\Expensive.Model.pdb
+C:\Users\dell\source\repos\Expenses\Expensive.Model\obj\Debug\net7.0\ref\Expensive.Model.dll

@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.AssemblyInfo.cs
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\Expenses\Expenses_Web\obj\Debug\net7.0\Expenses.Web.RazorAssemblyInfo.cs

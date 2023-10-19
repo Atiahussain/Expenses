@@ -1,0 +1,5 @@
+C:\Users\dell\source\repos\Expenses\Expensive.DataAciton\obj\Debug\net7.0\Expensive.DataAciton.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Expenses\Expensive.DataAciton\obj\Debug\net7.0\Expensive.DataAciton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Expenses\Expensive.DataAciton\obj\Debug\net7.0\Expensive.DataAciton.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Expenses\Expensive.DataAciton\obj\Debug\net7.0\Expensive.DataAciton.AssemblyInfo.cs
+C:\Users\dell\source\repos\Expenses\Expensive.DataAciton\obj\Debug\net7.0\Expensive.DataAciton.csproj.CoreCompileInputs.cache

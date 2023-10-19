@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Practices\Practices\bin\Debug\Practices.exe.config
+C:\Users\dell\source\repos\Practices\Practices\bin\Debug\Practices.exe
+C:\Users\dell\source\repos\Practices\Practices\bin\Debug\Practices.pdb
+C:\Users\dell\source\repos\Practices\Practices\obj\Debug\Practices.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Practices\Practices\obj\Debug\Practices.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Practices\Practices\obj\Debug\Practices.exe
+C:\Users\dell\source\repos\Practices\Practices\obj\Debug\Practices.pdb
